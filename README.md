@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**alecfaustino/alecfaustino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header Image](docs/1000009870.jpg)
 
-Here are some ideas to get you started:
+I'm a software developer with a commitment to lifelong learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Deployed Projects
+
+### [FavFlix](https://favflix-nine.vercel.app/)
+
+### [Nominate](https://nominatefood.netlify.app/)
+
+## See my portfolio
+
+### [My Portfolio](https://alecfaustino.netlify.app/)
+
+## Let's Connect!
+
+[LinkedIn](https://www.linkedin.com/in/alecfaustino/)

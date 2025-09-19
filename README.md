@@ -8,7 +8,7 @@ I'm a software developer with a commitment to lifelong learning.
 
 ### [FavFlix](https://favflix-nine.vercel.app/)
 
-### [Nominate](https://nominatefood.netlify.app/)
+- [Repo Link](https://github.com/alecfaustino/netflix-clone)
 
 ## See my portfolio
 

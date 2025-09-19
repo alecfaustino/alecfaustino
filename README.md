@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Header Image](docs/1000009870.jpg)
+![Header Image](/docs/banner.jpg)
 
 I'm a software developer with a commitment to lifelong learning.
 

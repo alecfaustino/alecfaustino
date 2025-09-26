@@ -6,7 +6,7 @@ I'm a software developer with a commitment to lifelong learning.
 
 ## My Deployed Projects
 
-### [Nominate](https://nominate2-seven.vercel.app/home)
+### [Nominate](https://nominatefood.netlify.app/)
 
 - [Repo Link](https://github.com/alecfaustino/nominate2)
 
